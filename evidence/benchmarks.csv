@@ -1,0 +1,14 @@
+metric,paper,deposit,paper_page
+"Mean alpha, T1",0.495,0.4952821634399073,17
+"Mean alpha, T2",0.561,0.5605833655815322,17
+"Polls with alpha increase",18,18,17
+"Mean raw learning",0.158,0.1579035460875426,16
+"Mean LCA learning",0.21,0.21027242475530689,18
+"Mean standard-correction learning",0.182,0.1824215268955629,18
+"Items where LCA exceeds raw",0.785,0.807909604519774,18
+"Items where standard correction exceeds raw",0.65,0.6497175141242938,18
+"Items fitting LCA",0.831,0.831,23
+"Male-minus-female T1 raw knowledge gap",0.067,0.06957169524872013,21
+"Male-minus-female T1 LCA knowledge gap",0.039,0.03913817367125555,21
+"Male-minus-female raw learning gap",-0.022,-0.022130018602282947,20
+"Male-minus-female LCA learning gap",-0.007,-0.0054626655333988895,20

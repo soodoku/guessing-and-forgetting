@@ -1,0 +1,11 @@
+.Rhistory
+.Rproj.user/
+.DS_Store
+build/
+renv/library/
+renv/local/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+

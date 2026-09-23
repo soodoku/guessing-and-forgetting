@@ -1,0 +1,27 @@
+path,md5,source,doi,license
+data/aus.csv,a3df181777049745ccff92a59972cc61,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/btp04.csv,05cd0171e5d87172caf8784db22dd5ef,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/btp04GE.csv,876b975a46663a56dc0fc966fc8cd7cd,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/btp05.csv,eb8c55a11ff735db9f98cb53f13ecb08,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/btp07.csv,2fd876e34502f8edf8c5dd310666d25c,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/bul.csv,66cb2fcef6edcd88404ebf9c224c0831,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/ca.csv,44b0fd049399ddb6100864a634adb249,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/cpl.csv,9d8fa270b1fe5f378ccab7eb73ebedbd,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/dk.csv,facdc049ccb6e7cb70d910c5a3a0dbdd,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/dpdata.csv,1b4ae4d0d8d55d172158189d8c5f6d10,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/eu2007.csv,610e3c5313949e124ff556ac0c219735,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/eu2009.csv,8adc6477582872bac5d9f84e1b542e67,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/ire.csv,685b3830ed223f284e6e8abab8c09a9a,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/mi.csv,ae97b52b4a0d74a0b5b85897c94a63ba,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/nic1.csv,21a89d077653e030cc2508fe857b3bc8,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/sim_data.csv,d95d5e5b8204497454958fa42efc04fd,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/sim_data_item_params.csv,b7781fedee1f27f3cc6558a8afda935d,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/sm.csv,9053fce66f6cd5e0052dc1ba062dbd80,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/swp.csv,6023bcdcf2fa39e6f862edea298695e1,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/ukbge.csv,27889cc20c978027e954c8a6376f9777,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/ukcrime.csv,82c84bfb4eed47c3906e2df319582c23,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/ukeu.csv,f8ff784475a9290a39cbd625a38d6040,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/ukhealth.csv,2f967fd790e26bb5bcb4c6125769d62e,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/ukmon.csv,563e061a5d81d5745f59721d9405898c,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/vt.csv,946f990abaf7e9187c4c67c528cabc59,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
+data/wtu.csv,d9b95ecf6feae4b590a62e598e4e42f8,Harvard Dataverse,10.7910/DVN/HZHVCU,CC0 1.0
