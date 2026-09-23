@@ -1,0 +1,24 @@
+Poll Name,Year,Region,Country,Mode,Issue(s),Reference
+UK EU,1995,,U.K.,Face-to-Face,Future of Britain in Europe,\citep{sturgis2005}
+UK Health,1998,,U.K.,Face-to-Face,National Health Service,\citep{park1998}
+UK Monarchy,1996,,U.K.,Face-to-Face,Future of Monarchy,\citep{sturgis2005}
+UK BGE,1997,,U.K.,Face-to-Face,Electoral Choice,\citep{luskin1999}
+AU Monarchy,1999,,Australia,Face-to-Face,Referendum on becoming a Republic,\citep{luskin2000}
+UK Crime,1994,,U.K.,Face-to-Face,Crime,\citep{luskin2002}
+EU 2007,2007,,EU-Wide,Face-to-Face,"Pension systems, Globalization, and Enlargement",\citep{luskin2008}
+CPL,1996,Texas,U.S.,Face-to-Face,Energy Choices,\citep{luskin1999b}
+WTU,1996,Texas,U.S.,Face-to-Face,Energy Choices,CDD\footnote{\url{http://cdd.stanford.edu/research/papers/2000/utility_paper.pdf}}
+SWEPCO,1996,Texas,U.S.,Face-to-Face,Energy Choices,CDD\footnote{See above reference.}
+Bulgaria,2007,,Bulgaria,Face-to-Face,"Roma: Housing, Crime and Education",CDD\footnote{\url{http://cdd.stanford.edu/polls/bulgaria/2007/bulgaria-results.pdf}}
+NIC,1996,,U.S.,Face-to-Face,Foreign and Economic Policy,\citep{luskin1998}
+Denmark,2000,,Denmark,Face-to-Face,Adoption of Euro ,\citep{hansen2004}
+N. Ireland,2007,Omagh,N. Ireland,Face-to-Face,Local Education,\citep{luskin2014}
+Vermont,2007,Vermont,U.S.,Face-to-Face,Energy Choices,\citep{luskin2007}
+Ca. Ref.,2011,California,U.S.,Face-to-Face,Government Reform,\citep{fishkin2015}
+San Mateo,2008,California,U.S.,Face-to-Face,Housing,CDD\footnote{\url{http://http://cdd.stanford.edu/2008/results-of-the-san-mateo-countywide-assembly-on-housing-choices/}}
+EU 2009,2009,,EU-Wide,Face-to-Face,Environment and EU-Reform,
+BTP 2004 Primaries,2004,,U.S.,Online,Online Primaries,\citep{Iyengar2004}
+BTP 2004 GE,2004,,U.S.,Online,General Elections,CDD\footnote{\url{http://cdd.stanford.edu/research/papers/2006/deliberative-voter.pdf}}
+BTP 2005,2005,,U.S.,Online,Healthcare and Education,PBS\footnote{\url{http://www.pbs.org/newshour/spc/btp/articles/events_deliberation.html}}
+BTP 2007,2007,,U.S.,Online,Electoral Reform,
+Michigan,2009,Michigan,U.S.,Face-to-Face,Economy and Budget Choices,
